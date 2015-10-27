@@ -6,7 +6,7 @@ It parses data from staseraintv.com using some regex.
 
 #How can i use it?
 It sounds to be not very useful at all, but if you wanna use it just do the following:
-![](http://s4.postimg.org/6xn0mobnx/Schermata_2015_10_27_alle_10_37_03.png)
+![](http://s12.postimg.org/lookzzk65/Schermata_2015_10_27_alle_11_42_25.png)
 
 #Wich command can use the user?
 At this time you can use just the "/staseraitv" command.
