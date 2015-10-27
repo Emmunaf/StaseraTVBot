@@ -18,8 +18,6 @@ import urllib
 import urllib2
 import re
 
-#token = '142117630:AAHhYsDCNfeNHgZa9aoeCFd74H6cwPeLp5Q'
-
 
 class StaseraTVBot:
     """Just a class for a telegramBot used for sending TVGuide.
@@ -128,5 +126,3 @@ class StaseraTVBot:
         titles = map(lambda s: s.strip(), titles)
         plot = map(lambda s: s.strip(), plot)
         return plot, titles
-bot = StaseraTVBot("142117630:AAHhYsDCNfeNHgZa9aoeCFd74H6cwPeLp5Q", "Botname")
-bot.start()
