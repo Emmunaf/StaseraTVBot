@@ -8,7 +8,7 @@ It parses data from staseraintv.com using some regex.
 It sounds to be not very useful at all, but if you wanna use it just do the following:
 ![](http://s12.postimg.org/lookzzk65/Schermata_2015_10_27_alle_11_42_25.png)
 
-#Wich command are avaible?
+#Wich command are available?
 At this time you can use just the "/staseraitv" command.
 It will parse and get you the italian TV guide of most famous channels.
 
